@@ -1,3 +1,5 @@
+Jess Cunliffe
+
 ---
 title: "Some cool animal facts"
 author: "Philip Leftwich"
@@ -56,6 +58,17 @@ knitr::opts_chunk$set(echo = TRUE)
 - Can rotate their hind feet 180 degrees to climb better
 - They are not endangered, just very elusive
 - Closely related to raccoons
+
+#### Grogu 
+
+![Image of Bady Yoda](img/Grogu.jpg)
+
+
+##### Some great facts about Bady Yoda 
+
+- Also known as "The Child"
+- Likes unfertilised frog eggs & control knobs
+- Strong with the force
 
 ###
 
